@@ -1,0 +1,77 @@
+.con{
+    height: 40px!important;
+    padding-top: 14px!important;
+}
+.navtab{
+    background-color: #0066b2!important;
+    padding: 12px!important;
+}
+.navbar-brand{
+    font-size: x-large!important;
+    font-family: Cambria!important;
+}
+.active{
+    background-color: #B0C4DE!important;
+    border-radius: 5px!important;
+}
+.navbar{
+    color: ghostwhite!important;
+    background: #6699CC!important;    
+}
+.nav-link{
+    margin-right: 5%!important;
+    color: white!important;
+}
+.nav-link:hover{
+    background-color: #B0C4DE!important;
+    border-radius: 5px!important;
+}
+.list-group-item{
+    background-color:#6699CC!important;
+    
+}
+.list-group-item:hover{
+    background-color:#B0C4DE!important;
+    
+}
+
+.my-slide-img{
+    height: 400px!important;
+}
+.tab{
+    text-align: center;
+    height: 400px!important;
+    width: 400px!important;
+}
+.thead{
+    font-size: 20px!important;
+    padding-bottom: 3px!important;
+}
+.table{
+    border-radius: 5px!important;
+    background-color: #8BC6EC;
+background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+}
+.tab1{
+    margin-left: 100px!important;
+}
+td{
+    cursor: pointer;
+}
+.container1{
+    margin-top: 40px!important;
+    margin-left: 10px!important;
+    
+}
+.inp{
+    width: 70%!important;
+}
+.form-control{
+    border-radius: 20px!important;
+}
+.footbg{
+    background-color: #6699CC!important;
+}
+.card-body{
+    background-color: grey;
+}
